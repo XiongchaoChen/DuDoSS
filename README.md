@@ -5,7 +5,7 @@ Xiongchao Chen, Bo Zhou, Huidong Xie, Tianshun Miao, Hui Liu, Wolfgang Holler, M
 
 [[Paper Link](https://pubmed.ncbi.nlm.nih.gov/36048541/)]
 
-![image](IMAGE/DuDoSS.pdf)
+![image](IMAGE/DuDoSS.jpg)
 
 This repository contains the PyTorch implementation of DuDoSS: Deep-learning-based dual-domain sinogram synthesis from sparsely sampled projections of cardiac SPECT
 
