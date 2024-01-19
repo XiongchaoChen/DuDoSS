@@ -1,2 +1,2 @@
 # DuDoSS
-Dual-Domain Sinogram Synthesis for cardiac SPECT
+Dual-Domain Sinogram Synthesis for sparse-view cardiac SPECT
